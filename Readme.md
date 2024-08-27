@@ -1,0 +1,1 @@
+Запуск файла из командной строки:      java -jar    ..../debriefing/target/debriefing-1.0.0-SNAPSHOT.jar
